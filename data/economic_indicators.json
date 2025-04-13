@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "source": "Sample Economic Indicators",
+    "description": "Sample economic indicators for financial market analysis",
+    "last_updated": "2025-04-12"
+  },
+  "indicators": [
+    {
+      "date": "2024-01-01",
+      "indicator": "GDP_Growth",
+      "value": 2.1,
+      "unit": "percent",
+      "frequency": "quarterly"
+    },
+    {
+      "date": "2024-02-01",
+      "indicator": "GDP_Growth",
+      "value": 2.3,
+      "unit": "percent",
+      "frequency": "quarterly"
+    },
+    {
+      "date": "2024-03-01",
+      "indicator": "GDP_Growth",
+      "value": 2.5,
+      "unit": "percent",
+      "frequency": "quarterly"
+    },
+    {
+      "date": "2024-01-01",
+      "indicator": "Unemployment_Rate",
+      "value": 3.7,
+      "unit": "percent",
+      "frequency": "monthly"
+    },
+    {
+      "date": "2024-02-01",
+      "indicator": "Unemployment_Rate",
+      "value": 3.6,
+      "unit": "percent",
+      "frequency": "monthly"
+    },
+    {
+      "date": "2024-03-01",
+      "indicator": "Unemployment_Rate",
+      "value": 3.8,
+      "unit": "percent",
+      "frequency": "monthly"
+    },
+    {
+      "date": "2024-01-01",
+      "indicator": "Inflation_Rate",
+      "value": 3.1,
+      "unit": "percent",
+      "frequency": "monthly"
+    },
+    {
+      "date": "2024-02-01",
+      "indicator": "Inflation_Rate",
+      "value": 3.2,
+      "unit": "percent",
+      "frequency": "monthly"
+    },
+    {
+      "date": "2024-03-01",
+      "indicator": "Inflation_Rate",
+      "value": 3.0,
+      "unit": "percent",
+      "frequency": "monthly"
+    },
+    {
+      "date": "2024-01-01",
+      "indicator": "Interest_Rate",
+      "value": 5.25,
+      "unit": "percent",
+      "frequency": "monthly"
+    },
+    {
+      "date": "2024-02-01",
+      "indicator": "Interest_Rate",
+      "value": 5.25,
+      "unit": "percent",
+      "frequency": "monthly"
+    },
+    {
+      "date": "2024-03-01",
+      "indicator": "Interest_Rate",
+      "value": 5.25,
+      "unit": "percent",
+      "frequency": "monthly"
+    },
+    {
+      "date": "2024-01-01",
+      "indicator": "Consumer_Confidence",
+      "value": 105.7,
+      "unit": "index",
+      "frequency": "monthly"
+    },
+    {
+      "date": "2024-02-01",
+      "indicator": "Consumer_Confidence",
+      "value": 106.3,
+      "unit": "index",
+      "frequency": "monthly"
+    },
+    {
+      "date": "2024-03-01",
+      "indicator": "Consumer_Confidence",
+      "value": 104.8,
+      "unit": "index",
+      "frequency": "monthly"
+    }
+  ]
+}
